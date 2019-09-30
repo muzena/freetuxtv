@@ -1,0 +1,32 @@
+Source: freetuxtv
+Section: video
+Priority: optional
+Maintainer: Debian Multimedia Maintainers <pkg-multimedia-maintainers@lists.alioth.debian.org>
+Uploaders: Eric Beuque <eric.beuque@gmail.com>
+Build-Depends: debhelper (>= 9.0.0),
+ autotools-dev,
+ intltool,
+ libtool,
+ libtool-bin,
+ libgtk-3-dev | libgtk2.0-dev (>= 2.22),
+ libglib2.0-dev,
+ libdbus-glib-1-dev,
+ libvlc-dev,
+ libsqlite3-dev,
+ libcurl4-openssl-dev | libcurl4-gnutls-dev,
+ libnotify-dev
+Standards-Version: 3.9.8
+Homepage: https://github.com/freetuxtv/freetuxtv
+
+Package: freetuxtv
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends},
+ vlc
+Description: Internet television and radio player
+ FreetuxTV is a media player for watching and recording TV on a PC. It
+ gives access to a large and growing database of free WebTV, WebRadio, and
+ WebCam channels in more than 20 languages, along with television services
+ provided by ISPs to their subscribers.
+ .
+ It relies on VLC for its multimedia codecs.
+

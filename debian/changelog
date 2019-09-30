@@ -1,0 +1,80 @@
+freetuxtv (0.6.8-0xenial1) oneiric; urgency=low
+
+  * Update to upstream version 0.6.8
+
+ -- Eric Beuque <eric.beuque@gmail.com>  Mon, 16 May 2016 09:55:21 +0200
+
+freetuxtv (0.6.6-0+svn-0oneiric1) oneiric; urgency=low
+
+  * Automatic update
+
+ -- Eric Beuque <eric.beuque@gmail.com>  Sat, 13 Sep 2014 09:55:21 +0200
+
+freetuxtv (0.6.5-0+svn-0oneiric1) oneiric; urgency=low
+
+  * Automatic update
+
+ -- cartes <cartes34@aliceadsl.fr>  Mon, 20 Feb 2012 14:08:20 +0100
+
+freetuxtv (0.5.2+svnr617-0oneiric2) oneiric; urgency=low
+
+  * Add configure with gtk3
+
+ -- cartes <cartes34@aliceadsl.fr>  Sat, 01 Oct 2011 19:38:05 +0200
+
+freetuxtv (0.5.2+svnr617-0oneiric1) oneiric; urgency=low
+
+  * daily update
+
+ -- cartes <cartes34@aliceadsl.fr>  Sat, 01 Oct 2011 17:33:30 +0200
+
+freetuxtv (0.5.0-0maverick1) maverick; urgency=low
+
+   - Gestion de LibVLC 1.1.0
+  - Création d'une librairie libdbevolution pour gérer l'évolution de la base de donnée
+  - Gestion des groupes de chaînes favorites
+  - Restructuration de la base de donnée
+  - Gestion des options VLC des chaînes dans la playlist
+  - Mise à jour de logos : 
+    WebRadio :
+    Remplacement du logo Roc FM par Metropolys suite au changement de nom de cette radio
+    Remplacement du logo Radio Scoop Box Vintage par Radio Scoop Power Dance suite au changement de type de musique sur le canal
+  - Ajout de logos : 
+    WebRadio :
+    CKIA FM, Corsica Radio, Kiss FM (pour aussi Kiss West Coast), Modem Radio (Crystal, France, Pop-Rock), Radio Tropicale
+    WebTV :
+    Alsace 20, AmericaFree TV, Weo  
+
+ -- cartes <cartes34@aliceadsl.fr>  Sun, 11 Jul 2010 20:36:50 +0200
+
+freetuxtv (0.4.2-1lucid1) lucid; urgency=low
+
+    - Ajout de la traduction portugaise.
+  - Correction du configure.ac pour mieux gérer les dépendances.
+  - Ajout de logos : GONG, RTC Télé Liège, jPopsuki TV, Seebit TV, Monterey Bay Aquarium, Oxyradio
+  - Mise à jour de logos : Nolife
+  - Mise à jour lien SFR TV
+  - Ajout lien miroir pour FreeboxTV.
+  - Ajout de l'icône video-display comme icône pour FreetuxTV.
+  - Possibilité de programmé la durée de l'enregistement en direct.
+
+
+ -- cartes <cartes34@aliceadsl.fr>  Mon, 15 Mar 2010 18:20:41 +0100
+
+freetuxtv (0.4.1-1karmic2) karmic; urgency=low
+
+  * Add deps vlc
+
+ -- cartes <cartes34@aliceadsl.fr>  Sun, 13 Dec 2009 17:24:56 +0100
+
+freetuxtv (0.4.1-1karmic1) karmic; urgency=low
+
+  * Remove deps libglade2. Add deps intltool, libtool.
+
+ -- Eric BEUQUE <eric.beuque@gmail.com>  Sat, 12 Dec 2009 17:04:56 +0100
+
+freetuxtv (0.3.0-1karmic1) karmic; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- cartes <cartes34@aliceadsl.fr>  Fri, 30 Oct 2009 14:06:24 +0100

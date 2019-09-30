@@ -1,0 +1,10 @@
+freetuxtv for Debian
+--------------------
+
+How to upload in launchpad
+
+    Run ssh-keygen -t rsa
+    Open .ssh/id_rsa.pub using a text editor (gedit will do)
+    Copy the entire contents of the file (one very long line).
+    Open https://launchpad.net/~/+editsshkeys on your browser
+    Under "Add an SSH key", paste the line from step 3, then click on "Import Key".
