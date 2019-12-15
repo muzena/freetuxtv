@@ -1,3 +1,9 @@
+freetuxtv (0.6.9) bionic; urgency=emergency
+
+  * Test new icons
+
+ -- Goran Vidovic (gogo) <trebelnik2@gmail.com>  Sun, 15 Dec 2019 15:12:21 +0200
+
 freetuxtv (0.6.8) bionic; urgency=emergency
 
   * Update to upstream version 0.6.8
