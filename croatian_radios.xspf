@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+  <trackList>
+    <track>
+      <title>Antena Zagreb - Live</title>
+      <location>http://live.antenazagreb.hr:8000/;</location></track>
+    <track>
+      <title>Antena Zagreb Dance</title>
+      <location>http://live.antenazagreb.hr:8015/</location></track>
+    <track>
+      <title>Antena Zagreb Hit</title>
+      <location>http://live.antenazagreb.hr:8011/</location></track>
+    <track>
+      <title>Antena Zagreb Love</title>
+      <location>http://live.antenazagreb.hr:8007/</location></track>
+    <track>
+      <title>Antena Zagreb Rock</title>
+      <location>http://live.antenazagreb.hr:8019/</location></track>
+    <track>
+      <title>Antena Zagreb Uživo</title>
+      <location>http://live.antenazagreb.hr:8002/;</location></track>
+    <track>
+      <title>Antena ZD</title>
+      <location>http://live.antenazadar.hr:9000/stream/</location></track>
+    <track>
+      <title>Banovina TV</title>
+      <location>https://5b57bb229a2e6.streamlock.net/live/televizija/playlist.m3u8</location></track>
+    <track>
+      <title>BBR Bjelovarsko Bilogorski Radio</title>
+      <location>http://europa.shoutca.st:8285/radiobbr192</location></track>
+    <track>
+      <title>Braniteljski Radio RH</title>
+      <location>http://eu2.fastcast4u.com/proxy/branitel?mp=/stream;</location></track>
+    <track>
+      <title>City-radio 88.6</title>
+      <location>http://s8.iqstreaming.com:8058/stream;</location></track>
+    <track>
+      <title>Digital Impulse - Ambient and Chillout</title>
+      <location>http://5.39.71.159:8994/stream</location></track>
+    <track>
+      <title>Digital Impulse - Ambient Fantasy</title>
+      <location>http://dinle.arabeskradyo.xyz:8042</location></track>
+    <track>
+      <title>Digital Impulse - Ambient Nature Sounds</title>
+      <location>http://orion.shoutca.st:8157/stream</location></track>
+    <track>
+      <title>Digital Impulse - Astra Psy Channel</title>
+      <location>http://5.39.71.159:8147/astra</location></track>
+    <track>
+      <title>Digital Impulse - ATG Trance</title>
+      <location>http://orion.shoutca.st:8430/stream</location></track>
+    <track>
+      <title>Digital Impulse - Blues</title>
+      <location>http://orion.shoutca.st:8990/stream</location></track>
+    <track>
+      <title>Digital Impulse - Christmas Channel</title>
+      <location>http://orion.shoutca.st:8982/stream</location></track>
+    <track>
+      <title>Digital Impulse - Classical Channel</title>
+      <location>http://orion.shoutca.st:8978/stream</location></track>
+    <track>
+      <title>Digital Impulse - Country Music</title>
+      <location>http://5.39.71.159:8110/stream</location></track>
+    <track>
+      <title>Digital Impulse - Dance 90</title>
+      <location>http://orion.shoutca.st:8643</location></track>
+    <track>
+      <title>Digital Impulse - DKR Techouse</title>
+      <location>http://orion.shoutca.st:8243/stream</location></track>
+    <track>
+      <title>Digital Impulse - Electro Swing &amp; Funk</title>
+      <location>http://orion.shoutca.st:8506/stream</location></track>
+    <track>
+      <title>Digital Impulse - French Skies</title>
+      <location>http://orion.shoutca.st:8084/;</location></track>
+    <track>
+      <title>Digital Impulse - Heavy Metal</title>
+      <location>http://orion.shoutca.st:8165</location></track>
+    <track>
+      <title>Digital Impulse - Jazz Channel</title>
+      <location>http://orion.shoutca.st/tunein/asxjyzz.pls</location></track>
+    <track>
+      <title>Digital Impulse - Movie Themes</title>
+      <location>http://orion.shoutca.st/tunein/asxmovie.pls</location></track>
+    <track>
+      <title>Digital Impulse - Oldies But Goldies</title>
+      <location>http://5.39.71.159:8248/stream</location></track>
+    <track>
+      <title>Digital Impulse - Rock Hits</title>
+      <location>http://5.39.71.159:8871/stream</location></track>
+    <track>
+      <title>Digital Impulse - Techno</title>
+      <location>https://orion.shoutca.st/tunein/asxrik.pls</location></track>
+    <track>
+      <title>Digital Impulse - Trance</title>
+      <location>http://5.39.71.159:8704/;stream;</location></track>
+    <track>
+      <title>Digital Impulse - Vocal Trance</title>
+      <location>http://orion.shoutca.st:8143/stream</location></track>
+    <track>
+      <title>Digital Impulse Radio - Ektoplazm PsyRadio</title>
+      <location>http://orion.shoutca.st:8231/stream</location></track>
+    <track>
+      <title>Digital Impulse Radio - PsychedelicTribe</title>
+      <location>http://orion.shoutca.st:8049/stream</location></track>
+    <track>
+      <title>ENTER Zagreb</title>
+      <location>http://live.enterzagreb.hr:8023</location></track>
+    <track>
+      <title>Extra FM</title>
+      <location>http://streams.extrafm.hr:8110/;</location></track>
+    <track>
+      <title>Gold FM</title>
+      <location>http://c5.hostingcentar.com:8070/stream</location></track>
+    <track>
+      <title>Gold FM</title>
+      <location>http://c5.hostingcentar.com:8070/stream</location></track>
+    <track>
+      <title>Gold FM</title>
+      <location>http://live.goldfm.hr:8068/</location></track>
+    <track>
+      <title>Gold FM Easy</title>
+      <location>http://live.goldfm.hr:8128/listen.pls?sid=1</location></track>
+    <track>
+      <title>Gold Oldies</title>
+      <location>http://live.goldfm.hr:8118/</location></track>
+    <track>
+      <title>GoldFM</title>
+      <location>http://live.goldfm.hr:8070</location></track>
+    <track>
+      <title>Hit Rado Sinj</title>
+      <location>http://s8.iqstreaming.com:8012/listen.pls?sid=1</location></track>
+    <track>
+      <title>HKR</title>
+      <location>http://stream.hkr.hr:8000/hkr.mp3</location></track>
+    <track>
+      <title>HrCak - Hrvatski radio Cakovec</title>
+      <location>http://144.76.39.214:7000/</location></track>
+    <track>
+      <title>HRT Glas Hrvatske</title>
+      <location>http://playerservices.streamtheworld.com/m3u/VOICEOFCROATIAAAC.m3u</location></track>
+    <track>
+      <title>HRT HR 1 - Prvi program</title>
+      <location>http://provisioning.streamtheworld.com/pls/PROGRAM1.pls</location></track>
+    <track>
+      <title>HRT HR 1 - Prvi program</title>
+      <location>http://playerservices.streamtheworld.com/m3u/PROGRAM1AAC.m3u</location></track>
+    <track>
+      <title>HRT HR 2 - Drugi program</title>
+      <location>http://playerservices.streamtheworld.com/m3u/PROGRAM2AAC.m3u</location></track>
+    <track>
+      <title>HRT HR 3 - Treći program</title>
+      <location>http://playerservices.streamtheworld.com/m3u/PROGRAM3AAC.m3u</location></track>
+    <track>
+      <title>HRT Radio Dubrovnik</title>
+      <location>http://playerservices.streamtheworld.com/m3u/DUBROVNIKAAC.m3u</location></track>
+    <track>
+      <title>HRT Radio Knin</title>
+      <location>http://playerservices.streamtheworld.com/m3u/KNINAAC.m3u</location></track>
+    <track>
+      <title>HRT Radio Osijek</title>
+      <location>http://playerservices.streamtheworld.com/m3u/OSIJEKAAC.m3u</location></track>
+    <track>
+      <title>HRT Radio Pula</title>
+      <location>http://playerservices.streamtheworld.com/m3u/PULAAAC.m3u</location></track>
+    <track>
+      <title>HRT Radio Rijeka</title>
+      <location>http://playerservices.streamtheworld.com/m3u/RIJEKAAAC.m3u</location></track>
+    <track>
+      <title>HRT Radio Sljeme</title>
+      <location>http://playerservices.streamtheworld.com/m3u/SLJEMEAAC.m3u</location></track>
+    <track>
+      <title>HRT Radio Split</title>
+      <location>http://playerservices.streamtheworld.com/m3u/SPLITAAC.m3u</location></track>
+    <track>
+      <title>HRT Radio Zadar</title>
+      <location>http://playerservices.streamtheworld.com/m3u/ZADARAAC.m3u</location></track>
+    <track>
+      <title>Krugoval</title>
+      <location>http://144.76.172.23:7043</location></track>
+    <track>
+      <title>Laganini FM</title>
+      <location>http://194.145.208.251:8000/start/lfmzg</location></track>
+    <track>
+      <title>Laganini FM</title>
+      <location>http://194.145.208.251:8000/start/lfmzg</location></track>
+    <track>
+      <title>Narodni Radio - AAAAAAAA!</title>
+      <location>http://live.narodni.hr:8045</location></track>
+    <track>
+      <title>Narodni Radio - Ljubav Je U Zraku</title>
+      <location>http://live.narodni.hr:8181</location></track>
+    <track>
+      <title>Narodni Radio - Ne Pitaj, Samo Sviraj</title>
+      <location>http://live.narodni.hr:8175</location></track>
+    <track>
+      <title>Narodni Radio - Opušteno</title>
+      <location>http://live.narodni.hr:8039</location></track>
+    <track>
+      <title>Narodni Radio - Veselo</title>
+      <location>http://live.narodni.hr:8051</location></track>
+    <track>
+      <title>Nature Sounds</title>
+      <location>http://orion.shoutca.st:8157/stream</location></track>
+    <track>
+      <title>Naxi 80</title>
+      <location>http://naxidigital-80s128.streaming.rs:8040/</location></track>
+    <track>
+      <title>Novi Radio Zadar</title>
+      <location>http://s8.iqstreaming.com:8022/stream</location></track>
+    <track>
+      <title>Obiteljski Radio Ivanić</title>
+      <location>http://s8.iqstreaming.com:8080/stream</location></track>
+    <track>
+      <title>Otvoreni Chill</title>
+      <location>http://sirius.shoutca.st:8228/</location></track>
+    <track>
+      <title>Otvoreni CHILL</title>
+      <location>http://sirius.shoutca.st:8228</location></track>
+    <track>
+      <title>Otvoreni Fitness</title>
+      <location>http://titan.shoutca.st:9138</location></track>
+    <track>
+      <title>Otvoreni Hot</title>
+      <location>http://kepler.shoutca.st:8404/</location></track>
+    <track>
+      <title>Otvoreni Live</title>
+      <location>http://eu10.fastcast4u.com:4700</location></track>
+    <track>
+      <title>Otvoreni Live</title>
+      <location>http://otvoreni.hr/media-player/create-playlist.php?stream=8807&amp;type=pls</location></track>
+    <track>
+      <title>Otvoreni Live</title>
+      <location>http://eu10.fastcast4u.com:3180/;</location></track>
+    <track>
+      <title>Otvoreni Love</title>
+      <location>http://proxima.shoutca.st:8469/</location></track>
+    <track>
+      <title>Petrinjski radio</title>
+      <location>http://s8.iqstreaming.com:8062</location></track>
+    <track>
+      <title>Podravski radio</title>
+      <location>http://proglink4.ddns.net:58001/prstream.aac</location></track>
+    <track>
+      <title>Radio 057</title>
+      <location>http://streaming.zadar.net:8000/radio057</location></track>
+    <track>
+      <title>Radio 101</title>
+      <location>http://live.radio101.hr:9531/stream.mp3</location></track>
+    <track>
+      <title>Radio 808</title>
+      <location>http://stream.radio808.info:8003/listen.pls</location></track>
+    <track>
+      <title>Radio Banovina</title>
+      <location>http://stream1.radio-banovina.hr:8008/;</location></track>
+    <track>
+      <title>Radio Blagovesti</title>
+      <location>http://radio.manastir-lepavina.org:8000/listen.pls</location></track>
+    <track>
+      <title>Radio Brac</title>
+      <location>http://s8.iqstreaming.com:8066/listen.pls</location></track>
+    <track>
+      <title>Radio Dalmacija</title>
+      <location>http://shoutcast.pondi.hr:8000/listen.pls</location></track>
+    <track>
+      <title>Radio Deejay HR</title>
+      <location>http://live.deejay.hr:7002/;</location></track>
+    <track>
+      <title>Radio Glas Podravine</title>
+      <location>http://glaspodravine.hr:8000</location></track>
+    <track>
+      <title>Radio Kaj</title>
+      <location>http://144.76.172.23:9018/stream</location></track>
+    <track>
+      <title>Radio Koprivnica</title>
+      <location>http://194.152.206.205:8000/</location></track>
+    <track>
+      <title>Radio Korzo</title>
+      <location>http://www.radiokorzo.hr/stream/premium.pls</location></track>
+    <track>
+      <title>Radio Labin</title>
+      <location>http://radiolabin.streamradio.com.hr:9102/;</location></track>
+    <track>
+      <title>Radio Ludbreg</title>
+      <location>http://85.25.135.86:23573/</location></track>
+    <track>
+      <title>RADIO MARIA CROATIA</title>
+      <location>http://dreamsiteradiocp4.com:8080/stream</location></track>
+    <track>
+      <title>Radio Marija</title>
+      <location>http://dreamsiteradiocp4.com:8080/</location></track>
+    <track>
+      <title>Radio Martin</title>
+      <location>http://genf196.server4you.de:8585/</location></track>
+    <track>
+      <title>Radio Max</title>
+      <location>http://winweb1.novi-net.net:8012</location></track>
+    <track>
+      <title>Radio Moslavina</title>
+      <location>http://144.76.172.23:7049</location></track>
+    <track>
+      <title>Radio Mrežnica</title>
+      <location>http://144.76.172.23:7010</location></track>
+    <track>
+      <title>Radio Novska</title>
+      <location>http://genf196.server4you.de:8686</location></track>
+    <track>
+      <title>Radio Otočac</title>
+      <location>http://s8.iqstreaming.com:8024/stream</location></track>
+    <track>
+      <title>Radio Quirinus 91.7</title>
+      <location>http://s8.iqstreaming.com:8064/stream</location></track>
+    <track>
+      <title>Radio Sisak 89,4 FM</title>
+      <location>http://c5.hostingcentar.com:8096/stream</location></track>
+    <track>
+      <title>Radio Sisak 89.4</title>
+      <location>http://c5.hostingcentar.com:8096/stream</location></track>
+    <track>
+      <title>Radio Sjeverozapad</title>
+      <location>http://winweb1.novi-net.net:8030/rnwH</location></track>
+    <track>
+      <title>Radio Skaut</title>
+      <location>http://144.76.39.214:7076/live</location></track>
+    <track>
+      <title>Radio Slatina</title>
+      <location>http://85.17.172.242:8020/live2.mp3</location></track>
+    <track>
+      <title>Radio Slavonija</title>
+      <location>http://s8.iqstreaming.com:8026/listen.pls</location></track>
+    <track>
+      <title>Radio Slunj  95.2</title>
+      <location>http://s3.iqstreaming.com/tunein.php/slunj/playlist.pls</location></track>
+    <track>
+      <title>Radio Stubica</title>
+      <location>http://radiostubica.hc.hr:7008/</location></track>
+    <track>
+      <title>Radio Student</title>
+      <location>http://www.radiostudent.hr/AAC128.pls</location></track>
+    <track>
+      <title>Radio Student</title>
+      <location>http://www.radiostudent.hr/AAC128.pls</location></track>
+    <track>
+      <title>Radio Sunce</title>
+      <location>http://shoutcast.pondi.hr:8002/;*.mp3</location></track>
+    <track>
+      <title>Radio Terezija</title>
+      <location>http://www.terezija.hr/winamp_terezija.pls</location></track>
+    <track>
+      <title>Radio Vrbovec 94.5</title>
+      <location>http://c2.hostingcentar.com:9452/;</location></track>
+    <track>
+      <title>Radio Zlatar</title>
+      <location>http://144.76.172.23:7059</location></track>
+    <track>
+      <title>Radio100.5 Student Zagreb</title>
+      <location>http://www.radiostudent.hr/aacPlus48.pls</location></track>
+    <track>
+      <title>Radio101</title>
+      <location>http://live.radio101.hr:9531</location></track>
+    <track>
+      <title>Radio101 rock</title>
+      <location>http://live.radio101.hr:9578</location></track>
+    <track>
+      <title>Slavonski radio</title>
+      <location>http://185.62.75.112:8021/SlavonskiRadio</location></track>
+    <track>
+      <title>Soundset Ragusa</title>
+      <location>http://178.218.163.171:8012/stream</location></track>
+    <track>
+      <title>Soundset Ragusa</title>
+      <location>http://178.218.163.171:8012/stream</location></track>
+    <track>
+      <title>ULTRA Split</title>
+      <location>http://c5.hostingcentar.com:8061/listen.pls?sid=1</location></track>
+    <track>
+      <title>Z fm</title>
+      <location>http://185.62.75.112:2199/tunein/006radiozapresic.pls</location></track>
+    <track>
+      <title>Županijski Radio Šibenik</title>
+      <location>http://178.32.62.163:8215/</location></track></trackList></playlist>
