@@ -1,505 +1,253 @@
 #EXTM3U
-#RADIOBROWSERUUID:a0a53101-7ce3-4a69-aa5c-cac3cef968cd
 #EXTINF:1,Antena Zagreb - Live
 http://live.antenazagreb.hr:8000/;
-
-#RADIOBROWSERUUID:9626d18e-0601-11e8-ae97-52543be04c81
 #EXTINF:1,Antena Zagreb Dance
 http://live.antenazagreb.hr:8015/
-
-#RADIOBROWSERUUID:9625ab4e-0601-11e8-ae97-52543be04c81
 #EXTINF:1,Antena Zagreb Hit
 http://live.antenazagreb.hr:8011/
-
-#RADIOBROWSERUUID:9626f758-0601-11e8-ae97-52543be04c81
 #EXTINF:1,Antena Zagreb Love
 http://live.antenazagreb.hr:8007/
-
-#RADIOBROWSERUUID:9626f5b0-0601-11e8-ae97-52543be04c81
 #EXTINF:1,Antena Zagreb Rock
 http://live.antenazagreb.hr:8019/
-
-#RADIOBROWSERUUID:961fce21-0601-11e8-ae97-52543be04c81
 #EXTINF:1,Antena Zagreb Uživo
 http://live.antenazagreb.hr:8002/;
-
-#RADIOBROWSERUUID:9444f58f-02b9-11e9-a1be-52543be04c81
 #EXTINF:1,Antena ZD
 http://live.antenazadar.hr:9000/stream/
-
-#RADIOBROWSERUUID:c88ab37c-f643-11e8-a471-52543be04c81
 #EXTINF:1,Banovina TV
 https://5b57bb229a2e6.streamlock.net/live/televizija/playlist.m3u8
-
-#RADIOBROWSERUUID:466b83b1-b9a1-11e8-aaf2-52543be04c81
 #EXTINF:1,BBR Bjelovarsko Bilogorski Radio
 http://europa.shoutca.st:8285/radiobbr192
-
-#RADIOBROWSERUUID:9638598f-0601-11e8-ae97-52543be04c81
 #EXTINF:1,Braniteljski Radio RH
 http://eu2.fastcast4u.com/proxy/branitel?mp=/stream;
-
-#RADIOBROWSERUUID:962280df-0601-11e8-ae97-52543be04c81
 #EXTINF:1,City-radio 88.6
 http://s8.iqstreaming.com:8058/stream;
-
-#RADIOBROWSERUUID:96403e46-0601-11e8-ae97-52543be04c81
 #EXTINF:1,Digital Impulse - Ambient and Chillout
 http://5.39.71.159:8994/stream
-
-#RADIOBROWSERUUID:961deb23-0601-11e8-ae97-52543be04c81
 #EXTINF:1,Digital Impulse - Ambient Fantasy
 http://dinle.arabeskradyo.xyz:8042
-
-#RADIOBROWSERUUID:962f9e5b-0601-11e8-ae97-52543be04c81
 #EXTINF:1,Digital Impulse - Ambient Nature Sounds
 http://orion.shoutca.st:8157/stream
-
-#RADIOBROWSERUUID:963fd437-0601-11e8-ae97-52543be04c81
 #EXTINF:1,Digital Impulse - Astra Psy Channel
 http://5.39.71.159:8147/astra
-
-#RADIOBROWSERUUID:413f58ba-599c-11ea-be63-52543be04c81
 #EXTINF:1,Digital Impulse - ATG Trance
 http://orion.shoutca.st:8430/stream
-
-#RADIOBROWSERUUID:961d83eb-0601-11e8-ae97-52543be04c81
 #EXTINF:1,Digital Impulse - Blues
 http://orion.shoutca.st:8990/stream
-
-#RADIOBROWSERUUID:9617941c-0601-11e8-ae97-52543be04c81
 #EXTINF:1,Digital Impulse - Christmas Channel
 http://orion.shoutca.st:8982/stream
-
-#RADIOBROWSERUUID:96431725-0601-11e8-ae97-52543be04c81
 #EXTINF:1,Digital Impulse - Classical Channel
 http://orion.shoutca.st:8978/stream
-
-#RADIOBROWSERUUID:961e0887-0601-11e8-ae97-52543be04c81
 #EXTINF:1,Digital Impulse - Country Music
 http://5.39.71.159:8110/stream
-
-#RADIOBROWSERUUID:97f1847a-1758-11e9-a80b-52543be04c81
 #EXTINF:1,Digital Impulse - Dance 90
 http://orion.shoutca.st:8643
-
-#RADIOBROWSERUUID:962d15d9-0601-11e8-ae97-52543be04c81
 #EXTINF:1,Digital Impulse - DKR Techouse
 http://orion.shoutca.st:8243/stream
-
-#RADIOBROWSERUUID:96234351-0601-11e8-ae97-52543be04c81
 #EXTINF:1,Digital Impulse - Electro Swing & Funk
 http://orion.shoutca.st:8506/stream
-
-#RADIOBROWSERUUID:96413641-0601-11e8-ae97-52543be04c81
 #EXTINF:1,Digital Impulse - French Skies
 http://orion.shoutca.st:8084/;
-
-#RADIOBROWSERUUID:962b820d-0601-11e8-ae97-52543be04c81
 #EXTINF:1,Digital Impulse - Heavy Metal
 http://orion.shoutca.st:8165
-
-#RADIOBROWSERUUID:961dc33e-0601-11e8-ae97-52543be04c81
 #EXTINF:1,Digital Impulse - Jazz Channel
 http://orion.shoutca.st/tunein/asxjyzz.pls
-
-#RADIOBROWSERUUID:961f00b5-0601-11e8-ae97-52543be04c81
 #EXTINF:1,Digital Impulse - Movie Themes
 http://orion.shoutca.st/tunein/asxmovie.pls
-
-#RADIOBROWSERUUID:961df48b-0601-11e8-ae97-52543be04c81
 #EXTINF:1,Digital Impulse - Oldies But Goldies
 http://5.39.71.159:8248/stream
-
-#RADIOBROWSERUUID:9619cad4-0601-11e8-ae97-52543be04c81
 #EXTINF:1,Digital Impulse - Rock Hits
 http://5.39.71.159:8871/stream
-
-#RADIOBROWSERUUID:962a603e-0601-11e8-ae97-52543be04c81
 #EXTINF:1,Digital Impulse - Techno
 https://orion.shoutca.st/tunein/asxrik.pls
-
-#RADIOBROWSERUUID:96206a82-0601-11e8-ae97-52543be04c81
 #EXTINF:1,Digital Impulse - Trance
 http://5.39.71.159:8704/;stream;
-
-#RADIOBROWSERUUID:1e259cfb-790b-11ea-8a3b-52543be04c81
 #EXTINF:1,Digital Impulse - Vocal Trance
 http://orion.shoutca.st:8143/stream
-
-#RADIOBROWSERUUID:9646a14d-0601-11e8-ae97-52543be04c81
 #EXTINF:1,Digital Impulse Radio - Ektoplazm PsyRadio
 http://orion.shoutca.st:8231/stream
-
-#RADIOBROWSERUUID:963f0845-0601-11e8-ae97-52543be04c81
 #EXTINF:1,Digital Impulse Radio - PsychedelicTribe
 http://orion.shoutca.st:8049/stream
-
-#RADIOBROWSERUUID:961bc258-0601-11e8-ae97-52543be04c81
 #EXTINF:1,ENTER Zagreb
 http://live.enterzagreb.hr:8023
-
-#RADIOBROWSERUUID:02a0222a-f54f-11e8-a471-52543be04c81
 #EXTINF:1,Extra FM
 http://streams.extrafm.hr:8110/;
-
-#RADIOBROWSERUUID:e51b80b5-f4c1-11e8-a471-52543be04c81
 #EXTINF:1,Gold FM
 http://c5.hostingcentar.com:8070/stream
-
-#RADIOBROWSERUUID:37619f72-f4c2-11e8-a471-52543be04c81
 #EXTINF:1,Gold FM
 http://c5.hostingcentar.com:8070/stream
-
-#RADIOBROWSERUUID:a9254884-ff90-11e8-a1be-52543be04c81
 #EXTINF:1,Gold FM
 http://live.goldfm.hr:8068/
-
-#RADIOBROWSERUUID:3b784cb4-1c0a-11e9-a80b-52543be04c81
 #EXTINF:1,Gold FM Easy
 http://live.goldfm.hr:8128/listen.pls?sid=1
-
-#RADIOBROWSERUUID:c815719a-ff92-11e8-a1be-52543be04c81
 #EXTINF:1,Gold Oldies
 http://live.goldfm.hr:8118/
-
-#RADIOBROWSERUUID:ede5e377-4fc7-11e9-a4d7-52543be04c81
 #EXTINF:1,GoldFM
 http://live.goldfm.hr:8070
-
-#RADIOBROWSERUUID:961887ab-0601-11e8-ae97-52543be04c81
 #EXTINF:1,Hit Rado Sinj
 http://s8.iqstreaming.com:8012/listen.pls?sid=1
-
-#RADIOBROWSERUUID:0aa9f85f-436b-11e9-aa55-52543be04c81
 #EXTINF:1,HKR
 http://stream.hkr.hr:8000/hkr.mp3
-
-#RADIOBROWSERUUID:96454347-0601-11e8-ae97-52543be04c81
 #EXTINF:1,HrCak - Hrvatski radio Cakovec
 http://144.76.39.214:7000/
-
-#RADIOBROWSERUUID:96183c5c-0601-11e8-ae97-52543be04c81
 #EXTINF:1,HRT Glas Hrvatske
 http://playerservices.streamtheworld.com/m3u/VOICEOFCROATIAAAC.m3u
-
-#RADIOBROWSERUUID:964939e3-0601-11e8-ae97-52543be04c81
 #EXTINF:1,HRT HR 1 - Prvi program
 http://provisioning.streamtheworld.com/pls/PROGRAM1.pls
-
-#RADIOBROWSERUUID:961d713c-0601-11e8-ae97-52543be04c81
 #EXTINF:1,HRT HR 1 - Prvi program
 http://playerservices.streamtheworld.com/m3u/PROGRAM1AAC.m3u
-
-#RADIOBROWSERUUID:961d7b4f-0601-11e8-ae97-52543be04c81
 #EXTINF:1,HRT HR 2 - Drugi program
 http://playerservices.streamtheworld.com/m3u/PROGRAM2AAC.m3u
-
-#RADIOBROWSERUUID:961bd30f-0601-11e8-ae97-52543be04c81
 #EXTINF:1,HRT HR 3 - Treći program
 http://playerservices.streamtheworld.com/m3u/PROGRAM3AAC.m3u
-
-#RADIOBROWSERUUID:961d3c6b-0601-11e8-ae97-52543be04c81
 #EXTINF:1,HRT Radio Dubrovnik
 http://playerservices.streamtheworld.com/m3u/DUBROVNIKAAC.m3u
-
-#RADIOBROWSERUUID:961f5517-0601-11e8-ae97-52543be04c81
 #EXTINF:1,HRT Radio Knin
 http://playerservices.streamtheworld.com/m3u/KNINAAC.m3u
-
-#RADIOBROWSERUUID:961da4c8-0601-11e8-ae97-52543be04c81
 #EXTINF:1,HRT Radio Osijek
 http://playerservices.streamtheworld.com/m3u/OSIJEKAAC.m3u
-
-#RADIOBROWSERUUID:961f670f-0601-11e8-ae97-52543be04c81
 #EXTINF:1,HRT Radio Pula
 http://playerservices.streamtheworld.com/m3u/PULAAAC.m3u
-
-#RADIOBROWSERUUID:961d03f2-0601-11e8-ae97-52543be04c81
 #EXTINF:1,HRT Radio Rijeka
 http://playerservices.streamtheworld.com/m3u/RIJEKAAAC.m3u
-
-#RADIOBROWSERUUID:961e9c8c-0601-11e8-ae97-52543be04c81
 #EXTINF:1,HRT Radio Sljeme
 http://playerservices.streamtheworld.com/m3u/SLJEMEAAC.m3u
-
-#RADIOBROWSERUUID:960e8b7b-0601-11e8-ae97-52543be04c81
 #EXTINF:1,HRT Radio Split
 http://playerservices.streamtheworld.com/m3u/SPLITAAC.m3u
-
-#RADIOBROWSERUUID:961e8d4e-0601-11e8-ae97-52543be04c81
 #EXTINF:1,HRT Radio Zadar
 http://playerservices.streamtheworld.com/m3u/ZADARAAC.m3u
-
-#RADIOBROWSERUUID:96242d53-0601-11e8-ae97-52543be04c81
 #EXTINF:1,Krugoval
 http://144.76.172.23:7043
-
-#RADIOBROWSERUUID:6b460145-8526-499c-8447-e3c8549f2346
 #EXTINF:1,Laganini FM
 http://194.145.208.251:8000/start/lfmzg
-
-#RADIOBROWSERUUID:d6f8b238-db34-491a-b8a2-d5b879bd498d
 #EXTINF:1,Laganini FM
 http://194.145.208.251:8000/start/lfmzg
-
-#RADIOBROWSERUUID:54cef299-d574-11e9-a861-52543be04c81
 #EXTINF:1,Narodni Radio - AAAAAAAA!
 http://live.narodni.hr:8045
-
-#RADIOBROWSERUUID:925472b4-d574-11e9-a861-52543be04c81
 #EXTINF:1,Narodni Radio - Ljubav Je U Zraku
 http://live.narodni.hr:8181
-
-#RADIOBROWSERUUID:c8fb67f9-d574-11e9-a861-52543be04c81
 #EXTINF:1,Narodni Radio - Ne Pitaj, Samo Sviraj
 http://live.narodni.hr:8175
-
-#RADIOBROWSERUUID:bf595731-62a9-11e8-b15b-52543be04c81
 #EXTINF:1,Narodni Radio - Opušteno
 http://live.narodni.hr:8039
-
-#RADIOBROWSERUUID:99f28352-62a9-11e8-b15b-52543be04c81
 #EXTINF:1,Narodni Radio - Veselo
 http://live.narodni.hr:8051
-
-#RADIOBROWSERUUID:2b170d3a-a425-11e9-a787-52543be04c81
 #EXTINF:1,Nature Sounds
 http://orion.shoutca.st:8157/stream
-
-#RADIOBROWSERUUID:96bded40-f1d2-11e9-a96c-52543be04c81
 #EXTINF:1,Naxi 80
 http://naxidigital-80s128.streaming.rs:8040/
-
-#RADIOBROWSERUUID:5cf3d24c-1b1f-11e8-a334-52543be04c81
 #EXTINF:1,Novi Radio Zadar
 http://s8.iqstreaming.com:8022/stream
-
-#RADIOBROWSERUUID:96235f09-0601-11e8-ae97-52543be04c81
 #EXTINF:1,Obiteljski Radio Ivanić
 http://s8.iqstreaming.com:8080/stream
-
-#RADIOBROWSERUUID:e70002e2-44f4-11ea-a860-52543be04c81
 #EXTINF:1,Otvoreni Chill
 http://sirius.shoutca.st:8228/
-
-#RADIOBROWSERUUID:d86f9719-44f5-11ea-a860-52543be04c81
 #EXTINF:1,Otvoreni CHILL
 http://sirius.shoutca.st:8228
-
-#RADIOBROWSERUUID:09b2ac49-44f7-11ea-a860-52543be04c81
 #EXTINF:1,Otvoreni Fitness
 http://titan.shoutca.st:9138
-
-#RADIOBROWSERUUID:66f4a02f-44f4-11ea-a860-52543be04c81
 #EXTINF:1,Otvoreni Hot
 http://kepler.shoutca.st:8404/
-
-#RADIOBROWSERUUID:d62d9c73-7c89-11ea-8a3b-52543be04c81
 #EXTINF:1,Otvoreni Live
 http://eu10.fastcast4u.com:4700
-
-#RADIOBROWSERUUID:158f39b9-81a0-4448-bdf1-e182cef3e585
 #EXTINF:1,Otvoreni Live
 http://otvoreni.hr/media-player/create-playlist.php?stream=8807&type=pls
-
-#RADIOBROWSERUUID:a50510b2-a7d9-4360-a329-15bde33e5527
 #EXTINF:1,Otvoreni Live
 http://eu10.fastcast4u.com:3180/;
-
-#RADIOBROWSERUUID:9250db01-44f6-11ea-a860-52543be04c81
 #EXTINF:1,Otvoreni Love
 http://proxima.shoutca.st:8469/
-
-#RADIOBROWSERUUID:162e81cf-7f0c-11e8-b68b-52543be04c81
 #EXTINF:1,Petrinjski radio
 http://s8.iqstreaming.com:8062
-
-#RADIOBROWSERUUID:96242ab8-0601-11e8-ae97-52543be04c81
 #EXTINF:1,Podravski radio
 http://proglink4.ddns.net:58001/prstream.aac
-
-#RADIOBROWSERUUID:961e8bad-0601-11e8-ae97-52543be04c81
 #EXTINF:1,Radio 057
 http://streaming.zadar.net:8000/radio057
-
-#RADIOBROWSERUUID:8bdd8045-6ddf-4481-8fc0-7c68c68c71b7
 #EXTINF:1,Radio 101
 http://live.radio101.hr:9531/stream.mp3
-
-#RADIOBROWSERUUID:d5eee22a-6fc0-11e8-83fa-52543be04c81
 #EXTINF:1,Radio 808
 http://stream.radio808.info:8003/listen.pls
-
-#RADIOBROWSERUUID:96058859-0601-11e8-ae97-52543be04c81
 #EXTINF:1,Radio Banovina
 http://stream1.radio-banovina.hr:8008/;
-
-#RADIOBROWSERUUID:646ee53f-bc0a-11e8-aaf2-52543be04c81
 #EXTINF:1,Radio Blagovesti
 http://radio.manastir-lepavina.org:8000/listen.pls
-
-#RADIOBROWSERUUID:f7a3de33-d88b-11e9-a861-52543be04c81
 #EXTINF:1,Radio Brac
 http://s8.iqstreaming.com:8066/listen.pls
-
-#RADIOBROWSERUUID:0be05318-b6ad-11e8-aaf2-52543be04c81
 #EXTINF:1,Radio Dalmacija
 http://shoutcast.pondi.hr:8000/listen.pls
-
-#RADIOBROWSERUUID:962b1125-0601-11e8-ae97-52543be04c81
 #EXTINF:1,Radio Deejay HR
 http://live.deejay.hr:7002/;
-
-#RADIOBROWSERUUID:96242760-0601-11e8-ae97-52543be04c81
 #EXTINF:1,Radio Glas Podravine
 http://glaspodravine.hr:8000
-
-#RADIOBROWSERUUID:c2aec8bd-aa98-11e8-a907-52543be04c81
 #EXTINF:1,Radio Kaj
 http://144.76.172.23:9018/stream
-
-#RADIOBROWSERUUID:9624268f-0601-11e8-ae97-52543be04c81
 #EXTINF:1,Radio Koprivnica
 http://194.152.206.205:8000/
-
-#RADIOBROWSERUUID:9623175e-0601-11e8-ae97-52543be04c81
 #EXTINF:1,Radio Korzo
 http://www.radiokorzo.hr/stream/premium.pls
-
-#RADIOBROWSERUUID:f3d8e366-309b-11e9-8f31-52543be04c81
 #EXTINF:1,Radio Labin
 http://radiolabin.streamradio.com.hr:9102/;
-
-#RADIOBROWSERUUID:96242288-0601-11e8-ae97-52543be04c81
 #EXTINF:1,Radio Ludbreg
 http://85.25.135.86:23573/
-
-#RADIOBROWSERUUID:99a57835-5f8b-11e9-a622-52543be04c81
 #EXTINF:1,RADIO MARIA CROATIA
 http://dreamsiteradiocp4.com:8080/stream
-
-#RADIOBROWSERUUID:96104374-0601-11e8-ae97-52543be04c81
 #EXTINF:1,Radio Marija
 http://dreamsiteradiocp4.com:8080/
-
-#RADIOBROWSERUUID:96236088-0601-11e8-ae97-52543be04c81
 #EXTINF:1,Radio Martin
 http://genf196.server4you.de:8585/
-
-#RADIOBROWSERUUID:960f5f2d-0601-11e8-ae97-52543be04c81
 #EXTINF:1,Radio Max
 http://winweb1.novi-net.net:8012
-
-#RADIOBROWSERUUID:96236c61-0601-11e8-ae97-52543be04c81
 #EXTINF:1,Radio Moslavina
 http://144.76.172.23:7049
-
-#RADIOBROWSERUUID:96237249-0601-11e8-ae97-52543be04c81
 #EXTINF:1,Radio Mrežnica
 http://144.76.172.23:7010
-
-#RADIOBROWSERUUID:96236d38-0601-11e8-ae97-52543be04c81
 #EXTINF:1,Radio Novska
 http://genf196.server4you.de:8686
-
-#RADIOBROWSERUUID:098b59e9-309d-11e9-8f31-52543be04c81
 #EXTINF:1,Radio Otočac
 http://s8.iqstreaming.com:8024/stream
-
-#RADIOBROWSERUUID:96194660-0601-11e8-ae97-52543be04c81
 #EXTINF:1,Radio Quirinus 91.7
 http://s8.iqstreaming.com:8064/stream
-
-#RADIOBROWSERUUID:fee8f3d7-fccc-11e8-a1be-52543be04c81
 #EXTINF:1,Radio Sisak 89,4 FM
 http://c5.hostingcentar.com:8096/stream
-
-#RADIOBROWSERUUID:96236e0f-0601-11e8-ae97-52543be04c81
 #EXTINF:1,Radio Sisak 89.4
 http://c5.hostingcentar.com:8096/stream
-
-#RADIOBROWSERUUID:96242424-0601-11e8-ae97-52543be04c81
 #EXTINF:1,Radio Sjeverozapad
 http://winweb1.novi-net.net:8030/rnwH
-
-#RADIOBROWSERUUID:758c6329-19b6-11e8-a334-52543be04c81
 #EXTINF:1,Radio Skaut
 http://144.76.39.214:7076/live
-
-#RADIOBROWSERUUID:038209e5-307a-11e9-8f31-52543be04c81
 #EXTINF:1,Radio Slatina
 http://85.17.172.242:8020/live2.mp3
-
-#RADIOBROWSERUUID:08edf6a5-e15a-11e8-a9cc-52543be04c81
 #EXTINF:1,Radio Slavonija
 http://s8.iqstreaming.com:8026/listen.pls
-
-#RADIOBROWSERUUID:9633d7cc-0601-11e8-ae97-52543be04c81
 #EXTINF:1,Radio Slunj  95.2
 http://s3.iqstreaming.com/tunein.php/slunj/playlist.pls
-
-#RADIOBROWSERUUID:96216abd-0601-11e8-ae97-52543be04c81
 #EXTINF:1,Radio Stubica
 http://radiostubica.hc.hr:7008/
-
-#RADIOBROWSERUUID:84f45e35-6cf3-11ea-b1cf-52543be04c81
 #EXTINF:1,Radio Student
 http://www.radiostudent.hr/AAC128.pls
-
-#RADIOBROWSERUUID:fb96214a-4258-11ea-a95e-52543be04c81
 #EXTINF:1,Radio Student
 http://www.radiostudent.hr/AAC128.pls
-
-#RADIOBROWSERUUID:963f2771-0601-11e8-ae97-52543be04c81
 #EXTINF:1,Radio Sunce
 http://shoutcast.pondi.hr:8002/;*.mp3
-
-#RADIOBROWSERUUID:96241df3-0601-11e8-ae97-52543be04c81
 #EXTINF:1,Radio Terezija
 http://www.terezija.hr/winamp_terezija.pls
-
-#RADIOBROWSERUUID:96236145-0601-11e8-ae97-52543be04c81
 #EXTINF:1,Radio Vrbovec 94.5
 http://c2.hostingcentar.com:9452/;
-
-#RADIOBROWSERUUID:96236b8d-0601-11e8-ae97-52543be04c81
 #EXTINF:1,Radio Zlatar
 http://144.76.172.23:7059
-
-#RADIOBROWSERUUID:96101170-0601-11e8-ae97-52543be04c81
 #EXTINF:1,Radio100.5 Student Zagreb
 http://www.radiostudent.hr/aacPlus48.pls
-
-#RADIOBROWSERUUID:3a395b1d-cffb-11e9-a861-52543be04c81
 #EXTINF:1,Radio101
 http://live.radio101.hr:9531
-
-#RADIOBROWSERUUID:f19cec43-cffb-11e9-a861-52543be04c81
 #EXTINF:1,Radio101 rock
 http://live.radio101.hr:9578
-
-#RADIOBROWSERUUID:e516d6d9-3e86-4fc4-9334-48600cfabaa1
 #EXTINF:1,Slavonski radio
 http://185.62.75.112:8021/SlavonskiRadio
-
-#RADIOBROWSERUUID:f05bd116-68a0-11ea-9d09-52543be04c81
 #EXTINF:1,Soundset Ragusa
 http://178.218.163.171:8012/stream
-
-#RADIOBROWSERUUID:dc237211-670c-11ea-be63-52543be04c81
 #EXTINF:1,Soundset Ragusa
 http://178.218.163.171:8012/stream
-
-#RADIOBROWSERUUID:72c20df5-257c-11e9-a80b-52543be04c81
 #EXTINF:1,ULTRA Split
 http://c5.hostingcentar.com:8061/listen.pls?sid=1
-
-#RADIOBROWSERUUID:96236203-0601-11e8-ae97-52543be04c81
 #EXTINF:1,Z fm
 http://185.62.75.112:2199/tunein/006radiozapresic.pls
-
-#RADIOBROWSERUUID:6ff3ea16-3e14-11ea-8dd7-52543be04c81
 #EXTINF:1,Županijski Radio Šibenik
 http://178.32.62.163:8215/
-
