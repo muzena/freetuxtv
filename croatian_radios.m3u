@@ -115,6 +115,8 @@ http://playerservices.streamtheworld.com/m3u/SLJEMEAAC.m3u
 http://playerservices.streamtheworld.com/m3u/SPLITAAC.m3u
 #EXTINF:1,HRT Radio Zadar
 http://playerservices.streamtheworld.com/m3u/ZADARAAC.m3u
+#EXTINF:1,Hrvatski Radio - Govorni Program
+http://20423.live.streamtheworld.com/HR_TALK.mp3
 #EXTINF:1,Krugoval
 http://144.76.172.23:7043
 #EXTINF:1,Laganini FM
