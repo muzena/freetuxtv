@@ -179,6 +179,8 @@ http://shoutcast.pondi.hr:8000/listen.pls
 http://live.deejay.hr:7002/;
 #EXTINF:1,Radio Glas Podravine
 http://glaspodravine.hr:8000
+#EXTINF:1,Radio Jaska
+https://uk1.streamingpulse.com/ssl/RadioJaska
 #EXTINF:1,Radio Kaj
 http://144.76.172.23:9018/stream
 #EXTINF:1,Radio Koprivnica
@@ -207,6 +209,8 @@ http://genf196.server4you.de:8686
 http://s8.iqstreaming.com:8024/stream
 #EXTINF:1,Radio Quirinus 91.7
 http://s8.iqstreaming.com:8064/stream
+#EXTINF:1,Radio Samobor
+http://185.150.235.162:80/
 #EXTINF:1,Radio Sisak 89,4 FM
 http://c5.hostingcentar.com:8096/stream
 #EXTINF:1,Radio Sisak 89.4
@@ -229,10 +233,14 @@ http://www.radiostudent.hr/AAC128.pls
 http://www.radiostudent.hr/AAC128.pls
 #EXTINF:1,Radio Sunce
 http://shoutcast.pondi.hr:8002/;*.mp3
+#EXTINF:1,Radio Sveta Nedelja
+http://st.radiosvn.com:8312/stream.mp3
 #EXTINF:1,Radio Terezija
 http://www.terezija.hr/winamp_terezija.pls
 #EXTINF:1,Radio Vrbovec 94.5
 http://c2.hostingcentar.com:9452/;
+#EXTINF:1,Radio Zelina
+http://109.169.23.97:7287
 #EXTINF:1,Radio Zlatar
 http://144.76.172.23:7059
 #EXTINF:1,Radio100.5 Student Zagreb
