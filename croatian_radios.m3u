@@ -179,6 +179,10 @@ http://stream.radio808.info:8003/listen.pls
 https://onlineradiobox.com/json/hr/92fm/play?platform=web
 #EXTINF:1,Radio Banovina
 http://stream1.radio-banovina.hr:8008/;
+#EXTINF:1,Radio Benkovac
+http://107.155.154.100:8100/
+#EXTINF:1,Radio Biograd na Moru
+https://onlineradiobox.com/json/hr/bnm/play?platform=web
 #EXTINF:1,Radio Blagovesti
 http://radio.manastir-lepavina.org:8000/listen.pls
 #EXTINF:1,Radio Brac
@@ -231,6 +235,8 @@ http://5.189.174.66:8006/stream
 http://144.76.172.23:7049
 #EXTINF:1,Radio Mrežnica
 http://144.76.172.23:7010
+#EXTINF:1,Radio Nova Gradiška
+http://comet.shoutca.st:8050
 #EXTINF:1,Radio Novi Marof
 https://freeuk3.listen2myradio.com/live.mp3?typeportmount=s1_26264_stream
 #EXTINF:1,Radio Novska
@@ -243,6 +249,8 @@ http://185.62.75.112:8023/RadioOrahovica
 http://s8.iqstreaming.com:8024/stream
 #EXTINF:1,Radio Otok Krk
 https://onlineradiobox.com/json/hr/otokkrk/play?platform=web
+#EXTINF:1,Radio Prkos
+http://eu7.fastcast4u.com:6124/stream
 #EXTINF:1,Radio Quirinus 91.7
 http://s8.iqstreaming.com:8064/stream
 #EXTINF:1,Radio Rab
