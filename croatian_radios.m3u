@@ -83,6 +83,8 @@ http://live.goldfm.hr:8128/listen.pls?sid=1
 http://live.goldfm.hr:8118/
 #EXTINF:1,GoldFM
 http://live.goldfm.hr:8070
+#EXTINF:1,Gradski radio Virovitica
+https://onlineradiobox.com/json/hr/gradskivirovitica/play?platform=web
 #EXTINF:1,Hit Rado Sinj
 http://s8.iqstreaming.com:8012/listen.pls?sid=1
 #EXTINF:1,HKR
@@ -161,6 +163,8 @@ http://eu10.fastcast4u.com:3180/;
 http://proxima.shoutca.st:8469/
 #EXTINF:1,Petrinjski radio
 http://s8.iqstreaming.com:8062
+#EXTINF:1,Pitomi Radio
+http://194.145.208.251:8022/stream?1580651040750.mp3
 #EXTINF:1,Podravski radio
 http://proglink4.ddns.net:58001/prstream.aac
 #EXTINF:1,Pomorski Radio Bakar
@@ -171,6 +175,8 @@ http://streaming.zadar.net:8000/radio057
 http://live.radio101.hr:9531/stream.mp3
 #EXTINF:1,Radio 808
 http://stream.radio808.info:8003/listen.pls
+#EXTINF:1,Radio 92 FM
+https://onlineradiobox.com/json/hr/92fm/play?platform=web
 #EXTINF:1,Radio Banovina
 http://stream1.radio-banovina.hr:8008/;
 #EXTINF:1,Radio Blagovesti
@@ -189,6 +195,8 @@ http://194.56.74.21:9300/listen.pls
 http://glaspodravine.hr:8000/radio.glaspodravine.hr
 #EXTINF:1,Radio Glas Podravine
 http://glaspodravine.hr:8000
+#EXTINF:1,Radio Gorski kotar
+http://144.76.39.214:9500/stream.mp3
 #EXTINF:1,Radio Grubišno Polje
 https://ec2s.crolive.com.hr:8215/stream
 #EXTINF:1,Radio Hrvatsko Zagorje Krapina
@@ -229,10 +237,16 @@ https://freeuk3.listen2myradio.com/live.mp3?typeportmount=s1_26264_stream
 http://genf196.server4you.de:8686
 #EXTINF:1,Radio Ogulin
 https://s8.iqstreaming.com:8046/stream
+#EXTINF:1,Radio Orahovica
+http://185.62.75.112:8023/RadioOrahovica
 #EXTINF:1,Radio Otočac
 http://s8.iqstreaming.com:8024/stream
+#EXTINF:1,Radio Otok Krk
+https://onlineradiobox.com/json/hr/otokkrk/play?platform=web
 #EXTINF:1,Radio Quirinus 91.7
 http://s8.iqstreaming.com:8064/stream
+#EXTINF:1,Radio Rab
+http://streamer2.streamsink.com:8000/Rab
 #EXTINF:1,Radio Samobor
 http://185.150.235.162:80/
 #EXTINF:1,Radio Sisak 89,4 FM
@@ -261,6 +275,8 @@ http://shoutcast.pondi.hr:8002/;*.mp3
 http://st.radiosvn.com:8312/stream.mp3
 #EXTINF:1,Radio Terezija
 http://www.terezija.hr/winamp_terezija.pls
+#EXTINF:1,Radio Vallis Aurea
+http://185.62.75.112:2199/tunein/004radiovallisaurea.pls
 #EXTINF:1,Radio Vrbovec 94.5
 http://c2.hostingcentar.com:9452/;
 #EXTINF:1,Radio Zelina
@@ -295,3 +311,5 @@ http://185.62.75.112:2199/tunein/006radiozapresic.pls
 http://144.76.172.23:9020
 #EXTINF:1,Županijski Radio Šibenik
 http://178.32.62.163:8215/
+#EXTINF:1,Županijski Radio Virovitica
+https://radio.icv.hr/9300/stream
