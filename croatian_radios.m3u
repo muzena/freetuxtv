@@ -83,6 +83,8 @@ http://live.goldfm.hr:8128/listen.pls?sid=1
 http://live.goldfm.hr:8118/
 #EXTINF:1,GoldFM
 http://live.goldfm.hr:8070
+#EXTINF:1,Gradski radio Trogir
+https://onlineradiobox.com/json/hr/trogir/play?platform=web
 #EXTINF:1,Gradski radio Virovitica
 https://onlineradiobox.com/json/hr/gradskivirovitica/play?platform=web
 #EXTINF:1,Hit Rado Sinj
@@ -131,6 +133,8 @@ http://144.76.172.23:7043
 http://194.145.208.251:8000/start/lfmzg
 #EXTINF:1,Laganini FM
 http://194.145.208.251:8000/start/lfmzg
+#EXTINF:1,Megamix Radio Hvar
+http://c5.hostingcentar.com:8098/stream.ogg
 #EXTINF:1,Narodni Radio - AAAAAAAA!
 http://live.narodni.hr:8045
 #EXTINF:1,Narodni Radio - Ljubav Je U Zraku
@@ -191,14 +195,20 @@ http://107.155.154.100:8100/
 https://onlineradiobox.com/json/hr/bnm/play?platform=web
 #EXTINF:1,Radio Blagovesti
 http://radio.manastir-lepavina.org:8000/listen.pls
+#EXTINF:1,Radio Borovo
+https://onlineradiobox.com/json/hr/radioborovo/play?platform=web
 #EXTINF:1,Radio Brac
 http://s8.iqstreaming.com:8066/listen.pls
+#EXTINF:1,Radio Centar Studio Poreč
+https://radiocentar.hr:8282/stream.aac
 #EXTINF:1,Radio Dalmacija
 http://shoutcast.pondi.hr:8000/listen.pls
 #EXTINF:1,Radio Daruvar
 http://85.17.172.242:8070/
 #EXTINF:1,Radio Deejay HR
 http://live.deejay.hr:7002/;
+#EXTINF:1,Radio Delta Metković
+http://185.62.75.24:8010/
 #EXTINF:1,Radio Donji Miholjac
 http://s8.iqstreaming.com:8078/stream
 #EXTINF:1,Radio Drava
@@ -209,6 +219,8 @@ http://185.62.75.112:5004/RadioDrnis
 https://onlineradiobox.com/json/hr/radiodunav/play?platform=web
 #EXTINF:1,Radio Đakovo
 http://s8.iqstreaming.com:9004/listen.pls
+#EXTINF:1,Radio Eurostar
+http://www.radioeurostar.hr:8030/
 #EXTINF:1,Radio Glas Podravine
 http://glaspodravine.hr:8000/radio.glaspodravine.hr
 #EXTINF:1,Radio Glas Podravine
@@ -219,12 +231,20 @@ http://144.76.39.214:9500/stream.mp3
 https://ec2s.crolive.com.hr:8215/stream
 #EXTINF:1,Radio Hrvatsko Zagorje Krapina
 https://onlineradiobox.com/json/hr/radiohrvatskozagorje/play?platform=web
+#EXTINF:1,Radio Ilok
+http://178.32.146.187:5172/stream
+#EXTINF:1,Radio Imotski
+http://173.82.238.169:8032/stream
+#EXTINF:1,Radio Istra
+http://146.185.18.251:7117/stream
 #EXTINF:1,Radio Jaska
 https://uk1.streamingpulse.com/ssl/RadioJaska
 #EXTINF:1,Radio Kaj
 http://144.76.172.23:9018/stream
 #EXTINF:1,Radio Koprivnica
 http://194.152.206.205:8000/
+#EXTINF:1,Radio Korčula
+http://radio.radio-korcula.hr:7845/
 #EXTINF:1,Radio Korzo
 http://www.radiokorzo.hr/stream/premium.pls
 #EXTINF:1,Radio Križevci
@@ -233,6 +253,10 @@ https://s8.iqstreaming.com:8048/stream
 http://radiolabin.streamradio.com.hr:9102/;
 #EXTINF:1,Radio Ludbreg
 http://85.25.135.86:23573/
+#EXTINF:1,Radio Maestral
+http://178.218.163.171:8003/;stream.mp3
+#EXTINF:1,Radio Makarska Rivijera
+http://85.25.135.86:8018/
 #EXTINF:1,RADIO MARIA CROATIA
 http://dreamsiteradiocp4.com:8080/stream
 #EXTINF:1,Radio Marija
@@ -303,6 +327,8 @@ http://st.radiosvn.com:8312/stream.mp3
 http://www.terezija.hr/winamp_terezija.pls
 #EXTINF:1,Radio Vallis Aurea
 http://185.62.75.112:2199/tunein/004radiovallisaurea.pls
+#EXTINF:1,Radio Vinkovci
+https://onlineradiobox.com/json/hr/vinkovci/play?platform=web
 #EXTINF:1,Radio Vrbovec 94.5
 http://c2.hostingcentar.com:9452/;
 #EXTINF:1,Radio Zelina
@@ -317,6 +343,8 @@ http://www.radiostudent.hr/aacPlus48.pls
 http://live.radio101.hr:9531
 #EXTINF:1,Radio101 rock
 http://live.radio101.hr:9578
+#EXTINF:1,Rovinj FM
+http://rovinj.fm:8000/
 #EXTINF:1,Sjeverni FM
 http://5.189.174.66:8000/stream2
 #EXTINF:1,Slavonski radio
