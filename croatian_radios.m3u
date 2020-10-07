@@ -73,9 +73,6 @@ http://live.enterzagreb.hr:8023
 http://streams.extrafm.hr:8110/;
 #EXTINF:1,Gold FM
 http://c5.hostingcentar.com:8070/stream
-#EXTINF:1,Gold FM
-http://c5.hostingcentar.com:8070/stream
-#EXTINF:1,Gold FM
 http://live.goldfm.hr:8068/
 #EXTINF:1,Gold FM Easy
 http://live.goldfm.hr:8128/listen.pls?sid=1
@@ -97,7 +94,6 @@ http://144.76.39.214:7000/
 http://playerservices.streamtheworld.com/m3u/VOICEOFCROATIAAAC.m3u
 #EXTINF:1,HRT HR 1 - Prvi program
 http://provisioning.streamtheworld.com/pls/PROGRAM1.pls
-#EXTINF:1,HRT HR 1 - Prvi program
 http://playerservices.streamtheworld.com/m3u/PROGRAM1AAC.m3u
 #EXTINF:1,HRT HR 2 - Drugi program
 http://playerservices.streamtheworld.com/m3u/PROGRAM2AAC.m3u
@@ -131,8 +127,6 @@ http://live.hrv.hr:8000/hrv
 http://144.76.172.23:7043
 #EXTINF:1,Laganini FM
 http://194.145.208.251:8000/start/lfmzg
-#EXTINF:1,Laganini FM
-http://194.145.208.251:8000/start/lfmzg
 #EXTINF:1,Megamix Radio Hvar
 http://c5.hostingcentar.com:8098/stream.ogg
 #EXTINF:1,Narodni Radio - AAAAAAAA!
@@ -146,7 +140,6 @@ http://live.narodni.hr:8039
 #EXTINF:1,Narodni Radio - Veselo
 http://live.narodni.hr:8051
 #EXTINF:1,Nature Sounds
-http://orion.shoutca.st:8157/stream
 #EXTINF:1,Naxi 80
 http://naxidigital-80s128.streaming.rs:8040/
 #EXTINF:1,Novi Radio
@@ -165,9 +158,7 @@ http://titan.shoutca.st:9138
 http://kepler.shoutca.st:8404/
 #EXTINF:1,Otvoreni Live
 http://eu10.fastcast4u.com:4700
-#EXTINF:1,Otvoreni Live
 http://otvoreni.hr/media-player/create-playlist.php?stream=8807&type=pls
-#EXTINF:1,Otvoreni Live
 http://eu10.fastcast4u.com:3180/;
 #EXTINF:1,Otvoreni Love
 http://proxima.shoutca.st:8469/
@@ -205,7 +196,6 @@ https://onlineradiobox.com/json/hr/radioborovo/play?platform=web
 http://s8.iqstreaming.com:8066/listen.pls
 #EXTINF:1,Radio Centar Studio Poreč
 https://radiocentar.hr:8282/stream.aac
-#EXTINF:1,Radio Centar Studio Poreč
 http://radiocentar.hr:8282/mp3
 #EXTINF:1,Radio Dalmacija
 http://shoutcast.pondi.hr:8000/listen.pls
@@ -229,7 +219,6 @@ http://s8.iqstreaming.com:9004/listen.pls
 http://www.radioeurostar.hr:8030/
 #EXTINF:1,Radio Glas Podravine
 http://glaspodravine.hr:8000/radio.glaspodravine.hr
-#EXTINF:1,Radio Glas Podravine
 http://glaspodravine.hr:8000
 #EXTINF:1,Radio Gorski kotar
 http://144.76.39.214:9500/stream.mp3
@@ -308,7 +297,6 @@ http://185.150.235.162:80/
 #EXTINF:1,Radio Sisak 89,4 FM
 http://c5.hostingcentar.com:8096/stream
 #EXTINF:1,Radio Sisak 89.4
-http://c5.hostingcentar.com:8096/stream
 #EXTINF:1,Radio Sjeverozapad
 http://winweb1.novi-net.net:8030/rnwH
 #EXTINF:1,Radio Skaut
@@ -321,8 +309,6 @@ http://s8.iqstreaming.com:8026/listen.pls
 http://s3.iqstreaming.com/tunein.php/slunj/playlist.pls
 #EXTINF:1,Radio Stubica
 http://radiostubica.hc.hr:7008/
-#EXTINF:1,Radio Student
-http://www.radiostudent.hr/AAC128.pls
 #EXTINF:1,Radio Student
 http://www.radiostudent.hr/AAC128.pls
 #EXTINF:1,Radio Sunce
@@ -359,8 +345,6 @@ http://rovinj.fm:8000/
 http://5.189.174.66:8000/stream2
 #EXTINF:1,Slavonski radio
 http://185.62.75.112:8021/SlavonskiRadio
-#EXTINF:1,Soundset Ragusa
-http://178.218.163.171:8012/stream
 #EXTINF:1,Soundset Ragusa
 http://178.218.163.171:8012/stream
 #EXTINF:1,Studentski radio UNIOS
