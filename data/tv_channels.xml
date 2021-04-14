@@ -2707,6 +2707,8 @@
 		<lang>hr</lang>
 		<country>hr</country>
 		<logo_filename>kcn2musictv_hrv.png</logo_filename>
+		<label>Kopernikus 2</label>
+		<label>KCN 2</label>
 		<website>http://tvkcn.net/tv-uzivo/tv-kcn-2-uzivo/ </website>
 		<guide_url>https://mojtv.hr/kanal/tv-program/302/kcn-music.aspx </guide_url>
 	</tvchannel>
@@ -2714,6 +2716,8 @@
 		<lang>hr</lang>
 		<country>hr</country>
 		<logo_filename>kcn3svettv_hrv.png</logo_filename>
+		<label>Kopernikus 3</label>
+		<label>KCN 3</label>
 		<website>http://tvkcn.net/tv-uzivo/tv-kcn-3-uzivo/ </website>
 		<guide_url>https://mojtv.hr/kanal/tv-program/303/kcn-svet-.aspx </guide_url>
 	</tvchannel>
