@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freetuxtv\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-03 22:27+0200\n"
-"PO-Revision-Date: 2020-10-03 22:28+0200\n"
-"Last-Translator: gogo <linux.hr@protonmail.com>\n"
+"POT-Creation-Date: 2020-10-06 14:04+0200\n"
+"PO-Revision-Date: 2021-04-14 14:55+0200\n"
+"Last-Translator: gogo <trebelnik2@gmail.com>\n"
 "Language-Team: hr@li.org\n"
 "Language: hr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.2.1\n"
+"X-Generator: Poedit 2.3\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
@@ -491,6 +491,42 @@ msgstr "Vrati natag na normalan prikaz"
 #: ../data/ui/freetuxtv.glade.h:88
 msgid "Activate/Deactivate the window always on top"
 msgstr "Prozor je uvijek na vrhu"
+
+#: ../data/ui/tvchannelsdatabase.glade.h:1
+msgid ""
+"<i>This will re-associate each stream with a TV Channel in the current "
+"database. This allow to associate a logo to a channel.</i>"
+msgstr ""
+"<i>Ovo će ponovno pridružiti svako strujanje s TV programom u trenutnoj bazi "
+"podataka. Omogućuje i pridruživanje logotipa s programom.</i>"
+
+#: ../data/ui/tvchannelsdatabase.glade.h:2
+msgid "Update database from file:"
+msgstr "Nadopuni bazu podataka iz datoteke:"
+
+#: ../data/ui/tvchannelsdatabase.glade.h:3
+msgid " Synchronize TV Channel database"
+msgstr " Uskladi bazu podataka TV programa"
+
+#: ../data/ui/tvchannelsdatabase.glade.h:4
+msgid ""
+"<i>This will download each logos recorded in the local database from the "
+"remote database.</i>"
+msgstr ""
+"<i>Ovo će preuzeti sve logotipe navedene u lokalnoj bazi podataka iz "
+"udaljene baze podataka.</i>"
+
+#: ../data/ui/tvchannelsdatabase.glade.h:5
+msgid "Remote directory:"
+msgstr "Udaljeni direktorij:"
+
+#: ../data/ui/tvchannelsdatabase.glade.h:6
+msgid "Update logos list"
+msgstr "Nadopuni popis logotipa"
+
+#: ../data/ui/tvchannelsdatabase.glade.h:7
+msgid "<b>TV Channels database</b>"
+msgstr "<b>Baza podataka TV programa</b>"
 
 #: ../data/channels_groups.xml.in.h:1
 msgid "Alice (Unofficial)"
@@ -1708,7 +1744,7 @@ msgstr "Upišite URI grupe!"
 #: ../src/freetuxtv-window-tv-channels-database.c:85
 #, c-format
 msgid "Updating TV channel: %s"
-msgstr "Ažuriranje ТV programa: %s"
+msgstr "Nadopuna ТV programa: %s"
 
 #: ../src/freetuxtv-window-tv-channels-database.c:148
 msgid "TV channels synchronisation"
