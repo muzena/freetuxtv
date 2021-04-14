@@ -1,71 +1,67 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <channels_groups>
-	<language lang="Alice" id="alice">
-		<channels_group uri="http://vlc-media-player.org/m3u/alicetv.m3u" required_isp="Alice" name="Alice"/>
-		<channels_group uri="http://freetuxtv.eric-beuque.com/playlists/playlist_alicetv_unofficial.m3u" required_isp="Alice" name="Alice (Unofficial)"></channels_group>
+	<language id="alice" lang="Alice">
+		<channels_group name="Alice" uri="http://vlc-media-player.org/m3u/alicetv.m3u" required_isp="Alice" />
+		<channels_group _name="Alice (Unofficial)" uri="http://freetuxtv.eric-beuque.com/playlists/playlist_alicetv_unofficial.m3u" required_isp="Alice" />
 	</language>
-	<language lang="Bouygues" id="bouygues">
-		<channels_group uri="http://bbox-news.com/documents/tv_sur_pc_bbox.m3u" required_isp="Bouygues" name="Bouygues TV"/>
+	<language id="bouygues" lang="Bouygues">
+		<channels_group name="Bouygues TV" uri="http://bbox-news.com/documents/tv_sur_pc_bbox.m3u" required_isp="Bouygues" />
+	</language>
+	<language id="free" lang="Free (FreeBox)">
+		<channels_group name="FreeboxTV" uri="http://mafreebox.freebox.fr/freeboxtv/playlist.m3u" bregex="[0-9]* - " required_isp="Free"/>
+		<channels_group name="FreeboxTV (miroir)" uri="http://freetuxtv.eric-beuque.com/playlists/playlist_freeboxtv_mirror.m3u" bregex="[0-9]* - " required_isp="Free" />
+	</language>
+	<language id="orange" lang="Orange">
+		<channels_group name="Orange TV (porciello)" uri="http://freetuxtv.eric-beuque.com/playlists/playlist_orange_porciello.m3u" bregex="[0-9]*\. " required_isp="Orange" />
+		<channels_group name="Orange TV" uri="http://vlc-media-player.org/m3u/orangetv.m3u" bregex="[0-9]*\. " required_isp="Orange" />
+	</language>
+	<language id="sfr" lang="SFR">
+		<channels_group name="SFR TV" uri="http://tv.sfr.fr/tv-pc/televisionsurpc.m3u" required_isp="SFR" />
+		<channels_group _name="SFR TV (Unofficial)" uri="http://freetuxtv.eric-beuque.com/playlists/playlist_sfrtv_unofficial.m3u" required_isp="SFR" />
 	</language>
 	<language lang="Darty" id="darty">
-		<channels_group uri="http://dartybox-news.fr/ftp/dartyboxtvpc.m3u" required_isp="Darty" name="Darty TV"/>
+		<channels_group name="Darty TV" uri="http://dartybox-news.fr/ftp/dartyboxtvpc.m3u" required_isp="Darty"/>
 	</language>
-	<language lang="Free (FreeBox)" id="free">
-		<channels_group uri="http://mafreebox.freebox.fr/freeboxtv/playlist.m3u" required_isp="Free" name="FreeboxTV" bregex="[0-9]* - "/>
-		<channels_group uri="http://freetuxtv.eric-beuque.com/playlists/playlist_freeboxtv_mirror.m3u" required_isp="Free" name="FreeboxTV (miroir)" bregex="[0-9]* - "/>
+	<language id="af" _lang="Afrikaans Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_af.m3u" _name="Web TV (Afrikaans)"></channels_group>
 	</language>
-	<language lang="Orange" id="orange">
-		<channels_group uri="http://freetuxtv.eric-beuque.com/playlists/playlist_orange_porciello.m3u" required_isp="Orange" name="Orange TV (porciello)" bregex="[0-9]*\. "/>
-		<channels_group uri="http://vlc-media-player.org/m3u/orangetv.m3u" required_isp="Orange" name="Orange TV" bregex="[0-9]*\. "/>
+	<language id="sq" _lang="Albanian Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_sq.m3u" _name="Web TV (Albanian)"></channels_group>
 	</language>
-	<language lang="SFR" id="sfr">
-		<channels_group uri="http://tv.sfr.fr/tv-pc/televisionsurpc.m3u" required_isp="SFR" name="SFR TV"/>
-		<channels_group uri="http://freetuxtv.eric-beuque.com/playlists/playlist_sfrtv_unofficial.m3u" required_isp="SFR" name="SFR TV (Unofficial)"></channels_group>
+	<language id="am" _lang="Amharic Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_am.m3u" _name="Web TV (Amharic)"></channels_group>
 	</language>
-	<language lang="WebPlus" id="webplus">
-		<channels_group uri="http://giant.wplus.net/QUICK_START/broadcast/tv/channels_tv_http_utf8.m3u" required_isp="WebPlus" name="WebPlus TV" bregex="ТВ HTTP  [0-9][0-9][0-9]  " eregex="h264"></channels_group>
+	<language id="ar" _lang="Arabic Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_ar.m3u" _name="Web TV (Arabic)"></channels_group>
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_ar.m3u" _name="Web Radio (Arabic)"></channels_group>
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webcam_ar.m3u" _name="Web Cam (Arabic)"></channels_group>
 	</language>
-	<language id="af" lang="Afrikaans Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_af.m3u" name="Web TV (Afrikaans)"></channels_group>
+	<language id="hy" _lang="Armenian Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_hy.m3u" _name="Web TV (Armenian)"></channels_group>
 	</language>
-	<language id="sq" lang="Albanian Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_sq.m3u" name="Web TV (Albanian)"></channels_group>
+	<language id="az" _lang="Azerbaijani Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_az.m3u" _name="Web TV (Azerbaijani)"></channels_group>
 	</language>
-	<language id="am" lang="Amharic Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_am.m3u" name="Web TV (Amharic)"></channels_group>
-	</language>
-	<language id="ar" lang="Arabic Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_ar.m3u" name="Web TV (Arabic)"></channels_group>
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_ar.m3u" name="Web Radio (Arabic)"></channels_group>
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webcam_ar.m3u" name="Web Cam (Arabic)"></channels_group>
-	</language>
-	<language id="hy" lang="Armenian Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_hy.m3u" name="Web TV (Armenian)"></channels_group>
-	</language>
-	<language id="az" lang="Azerbaijani Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_az.m3u" name="Web TV (Azerbaijani)"></channels_group>
-	</language>
-	<language id="bn" lang="Bengali/Bangla Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_bn.m3u" name="Web TV (Bengali/Bangla)"></channels_group>
+	<language id="bn" _lang="Bengali/Bangla Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_bn.m3u" _name="Web TV (Bengali/Bangla)"></channels_group>
 	</language>
 	<language id="bs" lang="Bosnian and Herzegovina Web TV and Radio">
 		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_bs.m3u" name="Web TV (Bosnian)"></channels_group>
 		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_bs.m3u" name="Web Radio (Bosnian)"></channels_group>
 		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webcam_bs.m3u" name="Web Cam (Bosnian)"></channels_group>
 	</language>
-	<language id="bg" lang="Bulgarian Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_bg.m3u" name="Web TV (Bulgarian)"></channels_group>
+	<language id="bg" _lang="Bulgarian Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_bg.m3u" _name="Web TV (Bulgarian)"></channels_group>
 	</language>
-	<language id="km" lang="Cambodian Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_km.m3u" name="Web TV (Cambodian)"></channels_group>
+	<language id="km" _lang="Cambodian Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_km.m3u" _name="Web TV (Cambodian)"></channels_group>
 	</language>
-	<language id="ca" lang="Catalan Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_ca.m3u" name="Web TV (Catalan)"></channels_group>
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_ca.m3u" name="Web Radio (Catalan)"></channels_group>
+	<language id="ca" _lang="Catalan Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_ca.m3u" _name="Web TV (Catalan)"></channels_group>
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_ca.m3u" _name="Web Radio (Catalan)"></channels_group>
 	</language>
-	<language id="zh" lang="Chinese Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_zh.m3u" name="Web TV (Chinese)"></channels_group>
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_zh.m3u" name="Web Radio (Chinese)"></channels_group>
+	<language id="zh" _lang="Chinese Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_zh.m3u" _name="Web TV (Chinese)"></channels_group>
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_zh.m3u" _name="Web Radio (Chinese)"></channels_group>
 	</language>
 	<language id="hr" lang="Croatian Web TV and Radio">
 		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_hr.m3u" name="Web TV (Croatian)"></channels_group>
@@ -73,151 +69,151 @@
 		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webcam_hr.m3u" name="Web Cam (Croatian)"></channels_group>
 		<channels_group uri="https://raw.githubusercontent.com/muzena/freetuxtv/radio_playlists/croatian_radios.m3u" name="Radio Browser Service (Croatian)"></channels_group>
 	</language>
-	<language id="cs" lang="Czech Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_cs.m3u" name="Web TV (Czech)"></channels_group>
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_cs.m3u" name="Web Radio (Czech)"></channels_group>
+	<language id="cs" _lang="Czech Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_cs.m3u" _name="Web TV (Czech)"></channels_group>
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_cs.m3u" _name="Web Radio (Czech)"></channels_group>
 	</language>
-	<language id="da" lang="Danish Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_da.m3u" name="Web TV (Danish)"></channels_group>
+	<language id="da" _lang="Danish Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_da.m3u" _name="Web TV (Danish)"></channels_group>
 	</language>
-	<language id="nl" lang="Dutch Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_nl.m3u" name="Web TV (Dutch)"></channels_group>
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_nl.m3u" name="Web Radio (Dutch)"></channels_group>
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webcam_nl.m3u" name="Web Cam (Dutch)"></channels_group>
+	<language id="nl" _lang="Dutch Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_nl.m3u" _name="Web TV (Dutch)"></channels_group>
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_nl.m3u" _name="Web Radio (Dutch)"></channels_group>
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webcam_nl.m3u" _name="Web Cam (Dutch)"></channels_group>
 	</language>
-	<language id="en" lang="English Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_en.m3u" name="Web TV (English)"></channels_group>
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_en.m3u" name="Web Radio (English)"></channels_group>
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_programmes_en.m3u" name="Web Programmes (English)"></channels_group>
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webcam_en.m3u" name="Web Cam (English)"></channels_group>
+	<language id="en" _lang="English Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_en.m3u" _name="Web TV (English)"></channels_group>
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_en.m3u" _name="Web Radio (English)"></channels_group>
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_programmes_en.m3u" _name="Web Programmes (English)"></channels_group>
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webcam_en.m3u" _name="Web Cam (English)"></channels_group>
 	</language>
-	<language id="et" lang="Estonian Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_et.m3u" name="Web TV (Estonian)"></channels_group>
+	<language id="et" _lang="Estonian Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_et.m3u" _name="Web TV (Estonian)"></channels_group>
 	</language>
-	<language id="fi" lang="Finnish Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_fi.m3u" name="Web TV (Finnish)"></channels_group>
+	<language id="fi" _lang="Finnish Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_fi.m3u" _name="Web TV (Finnish)"></channels_group>
 	</language>
-	<language id="fr" lang="French Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_fr.m3u" name="Web TV (French)"></channels_group>
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_fr.m3u" name="Web Radio (French)"></channels_group>
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_programmes_fr.m3u" name="Web Programmes (French)"></channels_group>
+	<language id="fr" _lang="French Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_fr.m3u" _name="Web TV (French)"></channels_group>
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_fr.m3u" _name="Web Radio (French)"></channels_group>
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_programmes_fr.m3u" _name="Web Programmes (French)"></channels_group>
 	</language>
-	<language id="ka" lang="Georgian Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_ka.m3u" name="Web TV (Georgian)"></channels_group>
+	<language id="ka" _lang="Georgian Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_ka.m3u" _name="Web TV (Georgian)"></channels_group>
 	</language>
-	<language id="de" lang="German Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_de.m3u" name="Web TV (German)"></channels_group>
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_de.m3u" name="Web Radio (German)"></channels_group>
-		<channels_group uri="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/clean/clean.m3u" name="Kodinerds (German)"></channels_group>
+	<language id="de" _lang="German Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_de.m3u" _name="Web TV (German)"></channels_group>
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_de.m3u" _name="Web Radio (German)"></channels_group>
+		<channels_group uri="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/clean/clean.m3u" _name="Kodinerds (German)"></channels_group>
 	</language>
-	<language id="el" lang="Greek Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_el.m3u" name="Web TV (Greek)"></channels_group>
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_el.m3u" name="Web Radio (Greek)"></channels_group>
+	<language id="el" _lang="Greek Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_el.m3u" _name="Web TV (Greek)"></channels_group>
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_el.m3u" _name="Web Radio (Greek)"></channels_group>
 	</language>
-	<language id="iw" lang="Hebrew Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_iw.m3u" name="Web TV (Hebrew)"></channels_group>
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_iw.m3u" name="Web Radio (Hebrew)"></channels_group>
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webcam_iw.m3u" name="Web Cam (Hebrew)"></channels_group>
+	<language id="iw" _lang="Hebrew Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_iw.m3u" _name="Web TV (Hebrew)"></channels_group>
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_iw.m3u" _name="Web Radio (Hebrew)"></channels_group>
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webcam_iw.m3u" _name="Web Cam (Hebrew)"></channels_group>
 	</language>
-	<language id="hi" lang="Hindi Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_hi.m3u" name="Web TV (Hindi)"></channels_group>
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_hi.m3u" name="Web Radio (Hindi)"></channels_group>
+	<language id="hi" _lang="Hindi Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_hi.m3u" _name="Web TV (Hindi)"></channels_group>
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_hi.m3u" _name="Web Radio (Hindi)"></channels_group>
 	</language>
-	<language id="hu" lang="Hungarian Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_hu.m3u" name="Web TV (Hungarian)"></channels_group>
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_hu.m3u" name="Web Radio (Hungarian)"></channels_group>
+	<language id="hu" _lang="Hungarian Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_hu.m3u" _name="Web TV (Hungarian)"></channels_group>
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_hu.m3u" _name="Web Radio (Hungarian)"></channels_group>
 	</language>
-	<language id="is" lang="Icelandic Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_is.m3u" name="Web TV (Icelandic)"></channels_group>
+	<language id="is" _lang="Icelandic Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_is.m3u" _name="Web TV (Icelandic)"></channels_group>
 	</language>
-	<language id="in" lang="Indonesian Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_in.m3u" name="Web TV (Indonesian)"></channels_group>
+	<language id="in" _lang="Indonesian Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_in.m3u" _name="Web TV (Indonesian)"></channels_group>
 	</language>
-	<language id="ia" lang="Interlingua Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_ia.m3u" name="Web Radio (Interlingua)"></channels_group>
+	<language id="ia" _lang="Interlingua Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_ia.m3u" _name="Web Radio (Interlingua)"></channels_group>
 	</language>
-	<language id="ga" lang="Irish Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_ga.m3u" name="Web TV (Irish)"></channels_group>
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_ga.m3u" name="Web Radio (Irish)"></channels_group>
+	<language id="ga" _lang="Irish Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_ga.m3u" _name="Web TV (Irish)"></channels_group>
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_ga.m3u" _name="Web Radio (Irish)"></channels_group>
 	</language>
-	<language id="it" lang="Italian Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_it.m3u" name="Web TV (Italian)"></channels_group>
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_it.m3u" name="Web Radio (Italian)"></channels_group>
+	<language id="it" _lang="Italian Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_it.m3u" _name="Web TV (Italian)"></channels_group>
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_it.m3u" _name="Web Radio (Italian)"></channels_group>
 	</language>
-	<language id="ja" lang="Japanese Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_ja.m3u" name="Web TV (Japanese)"></channels_group>
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_ja.m3u" name="Web Radio (Japanese)"></channels_group>
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webcam_ja.m3u" name="Web Cam (Japanese)"></channels_group>
+	<language id="ja" _lang="Japanese Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_ja.m3u" _name="Web TV (Japanese)"></channels_group>
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_ja.m3u" _name="Web Radio (Japanese)"></channels_group>
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webcam_ja.m3u" _name="Web Cam (Japanese)"></channels_group>
 	</language>
-	<language id="kk" lang="Kazakh Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_kk.m3u" name="Web TV (Kazakh)"></channels_group>
+	<language id="kk" _lang="Kazakh Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_kk.m3u" _name="Web TV (Kazakh)"></channels_group>
 	</language>
-	<language id="ko" lang="Korean Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_ko.m3u" name="Web TV (Korean)"></channels_group>
+	<language id="ko" _lang="Korean Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_ko.m3u" _name="Web TV (Korean)"></channels_group>
 	</language>
-	<language id="ku" lang="Kurdish Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_ku.m3u" name="Web TV (Kurdish)"></channels_group>
+	<language id="ku" _lang="Kurdish Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_ku.m3u" _name="Web TV (Kurdish)"></channels_group>
 	</language>
-	<language id="la" lang="Latin Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_la.m3u" name="Web TV (Latin)"></channels_group>
+	<language id="la" _lang="Latin Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_la.m3u" _name="Web TV (Latin)"></channels_group>
 	</language>
-	<language id="lv" lang="Latvian/Lettish Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_lv.m3u" name="Web TV (Latvian/Lettish)"></channels_group>
+	<language id="lv" _lang="Latvian/Lettish Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_lv.m3u" _name="Web TV (Latvian/Lettish)"></channels_group>
 	</language>
-	<language id="lt" lang="Lithuanian Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_lt.m3u" name="Web TV (Lithuanian)"></channels_group>
+	<language id="lt" _lang="Lithuanian Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_lt.m3u" _name="Web TV (Lithuanian)"></channels_group>
 	</language>
 	<language id="mk" lang="Macedonian Web TV and Radio">
 		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_mk.m3u" name="Web TV (Macedonian)"></channels_group>
 		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_mk.m3u" name="Web Radio (Macedonian)"></channels_group>
 		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webcam_mk.m3u" name="Web Cam (Macedonian)"></channels_group>
 	</language>
-	<language id="ms" lang="Malay Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_ms.m3u" name="Web TV (Malay)"></channels_group>
+	<language id="ms" _lang="Malay Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_ms.m3u" _name="Web TV (Malay)"></channels_group>
 	</language>
-	<language id="ml" lang="Malayalam Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_ml.m3u" name="Web TV (Malayalam)"></channels_group>
+	<language id="ml" _lang="Malayalam Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_ml.m3u" _name="Web TV (Malayalam)"></channels_group>
 	</language>
-	<language id="mt" lang="Maltese Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_mt.m3u" name="Web TV (Maltese)"></channels_group>
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_mt.m3u" name="Web Radio (Maltese)"></channels_group>
+	<language id="mt" _lang="Maltese Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_mt.m3u" _name="Web TV (Maltese)"></channels_group>
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_mt.m3u" _name="Web Radio (Maltese)"></channels_group>
 	</language>
-	<language id="mo" lang="Moldavian Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_mo.m3u" name="Web TV (Moldavian)"></channels_group>
+	<language id="mo" _lang="Moldavian Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_mo.m3u" _name="Web TV (Moldavian)"></channels_group>
 	</language>
-	<language id="mn" lang="Mongolian Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_mn.m3u" name="Web TV (Mongolian)"></channels_group>
+	<language id="mn" _lang="Mongolian Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_mn.m3u" _name="Web TV (Mongolian)"></channels_group>
 	</language>
 	<language id="mt" lang="Montenegro Web TV and Radio">
 		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_cn.m3u" name="Web TV (Montenegrin)"></channels_group>
 		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_cn.m3u" name="Web Radio (Montenegrin)"></channels_group>
 		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webcam_cn.m3u" name="Web Cam (Montenegrin)"></channels_group>
 	</language>
-	<language id="no" lang="Norwegian Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_no.m3u" name="Web TV (Norwegian)"></channels_group>
+	<language id="no" _lang="Norwegian Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_no.m3u" _name="Web TV (Norwegian)"></channels_group>
 	</language>
-	<language id="fa" lang="Persian Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_fa.m3u" name="Web TV (Persian)"></channels_group>
+	<language id="fa" _lang="Persian Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_fa.m3u" _name="Web TV (Persian)"></channels_group>
 	</language>
-	<language id="pl" lang="Polish Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_pl.m3u" name="Web TV (Polish)"></channels_group>
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_pl.m3u" name="Web Radio (Polish)"></channels_group>
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webcam_pl.m3u" name="Web Cam (Polish)"></channels_group>
+	<language id="pl" _lang="Polish Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_pl.m3u" _name="Web TV (Polish)"></channels_group>
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_pl.m3u" _name="Web Radio (Polish)"></channels_group>
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webcam_pl.m3u" _name="Web Cam (Polish)"></channels_group>
 	</language>
-	<language id="pt" lang="Portuguese Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_pt.m3u" name="Web TV (Portuguese)"></channels_group>
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_pt.m3u" name="Web Radio (Portuguese)"></channels_group>
+	<language id="pt" _lang="Portuguese Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_pt.m3u" _name="Web TV (Portuguese)"></channels_group>
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_pt.m3u" _name="Web Radio (Portuguese)"></channels_group>
 	</language>
-	<language id="pa" lang="Punjabi Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_pa.m3u" name="Web TV (Punjabi)"></channels_group>
+	<language id="pa" _lang="Punjabi Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_pa.m3u" _name="Web TV (Punjabi)"></channels_group>
 	</language>
-	<language id="ro" lang="Romanian Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_ro.m3u" name="Web TV (Romanian)"></channels_group>
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_ro.m3u" name="Web Radio (Romanian)"></channels_group>
+	<language id="ro" _lang="Romanian Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_ro.m3u" _name="Web TV (Romanian)"></channels_group>
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_ro.m3u" _name="Web Radio (Romanian)"></channels_group>
 	</language>
-	<language id="ru" lang="Russian Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_ru.m3u" name="Web TV (Russian)"></channels_group>
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_ru.m3u" name="Web Radio (Russian)"></channels_group>
+	<language id="ru" _lang="Russian Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_ru.m3u" _name="Web TV (Russian)"></channels_group>
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_ru.m3u" _name="Web Radio (Russian)"></channels_group>
 	</language>
 	<language id="sr" lang="Serbian Web TV and Radio">
 		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_sr.m3u" name="Web TV (Serbian)"></channels_group>
@@ -229,61 +225,61 @@
 		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_sh.m3u" name="Web Radio (Serbo-Croatian)"></channels_group>
 		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webcam_sh.m3u" name="Web Cam (Serbo-Croatian)"></channels_group>
 	</language>
-	<language id="sk" lang="Slovak Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_sk.m3u" name="Web TV (Slovak)"></channels_group>
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_sk.m3u" name="Web Radio (Slovak)"></channels_group>
+	<language id="sk" _lang="Slovak Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_sk.m3u" _name="Web TV (Slovak)"></channels_group>
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_sk.m3u" _name="Web Radio (Slovak)"></channels_group>
 	</language>
 	<language id="sl" lang="Slovenian Web TV and Radio">
 		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_sl.m3u" name="Web TV (Slovenian)"></channels_group>
 		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_sl.m3u" name="Web Radio (Slovenian)"></channels_group>
 		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webcam_sl.m3u" name="Web Cam (Slovenian)"></channels_group>
 	</language>
-	<language id="es" lang="Spanish Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_es.m3u" name="Web TV (Spanish)"></channels_group>
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_es.m3u" name="Web Radio (Spanish)"></channels_group>
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_programmes_es.m3u" name="Web Programmes (Spanish)"></channels_group>
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webcam_es.m3u" name="Web Cam (Spanish)"></channels_group>
+	<language id="es" _lang="Spanish Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_es.m3u" _name="Web TV (Spanish)"></channels_group>
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_es.m3u" _name="Web Radio (Spanish)"></channels_group>
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_programmes_es.m3u" _name="Web Programmes (Spanish)"></channels_group>
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webcam_es.m3u" _name="Web Cam (Spanish)"></channels_group>
 	</language>
-	<language id="sv" lang="Swedish Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_sv.m3u" name="Web TV (Swedish)"></channels_group>
+	<language id="sv" _lang="Swedish Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_sv.m3u" _name="Web TV (Swedish)"></channels_group>
 	</language>
-	<language id="tl" lang="Tagalog Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_tl.m3u" name="Web TV (Tagalog)"></channels_group>
+	<language id="tl" _lang="Tagalog Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_tl.m3u" _name="Web TV (Tagalog)"></channels_group>
 	</language>
-	<language id="ta" lang="Tamil Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_ta.m3u" name="Web TV (Tamil)"></channels_group>
+	<language id="ta" _lang="Tamil Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_ta.m3u" _name="Web TV (Tamil)"></channels_group>
 	</language>
-	<language id="th" lang="Thai Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_th.m3u" name="Web TV (Thai)"></channels_group>
+	<language id="th" _lang="Thai Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_th.m3u" _name="Web TV (Thai)"></channels_group>
 	</language>
-	<language id="tr" lang="Turkish Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_tr.m3u" name="Web TV (Turkish)"></channels_group>
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_tr.m3u" name="Web Radio (Turkish)"></channels_group>
+	<language id="tr" _lang="Turkish Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_tr.m3u" _name="Web TV (Turkish)"></channels_group>
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_tr.m3u" _name="Web Radio (Turkish)"></channels_group>
 	</language>
-	<language id="tk" lang="Turkmen Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_tk.m3u" name="Web TV (Turkmen)"></channels_group>
+	<language id="tk" _lang="Turkmen Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_tk.m3u" _name="Web TV (Turkmen)"></channels_group>
 	</language>
-	<language id="uk" lang="Ukrainian Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_uk.m3u" name="Web TV (Ukrainian)"></channels_group>
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webcam_uk.m3u" name="Web Cam (Ukrainian)"></channels_group>
+	<language id="uk" _lang="Ukrainian Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_uk.m3u" _name="Web TV (Ukrainian)"></channels_group>
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webcam_uk.m3u" _name="Web Cam (Ukrainian)"></channels_group>
 	</language>
-	<language id="ur" lang="Urdu Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_ur.m3u" name="Web TV (Urdu)"></channels_group>
+	<language id="ur" _lang="Urdu Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_ur.m3u" _name="Web TV (Urdu)"></channels_group>
 	</language>
-	<language id="uz" lang="Uzbek Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_uz.m3u" name="Web TV (Uzbek)"></channels_group>
+	<language id="uz" _lang="Uzbek Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_uz.m3u" _name="Web TV (Uzbek)"></channels_group>
 	</language>
-	<language id="vi" lang="Vietnamese Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_vi.m3u" name="Web TV (Vietnamese)"></channels_group>
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_vi.m3u" name="Web Radio (Vietnamese)"></channels_group>
+	<language id="vi" _lang="Vietnamese Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_vi.m3u" _name="Web TV (Vietnamese)"></channels_group>
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_vi.m3u" _name="Web Radio (Vietnamese)"></channels_group>
 	</language>
-	<language id="none" lang="No lang Web TV and Radio">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_none.m3u" name="Web TV (No lang)"></channels_group>
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_none.m3u" name="Web Radio (No lang)"></channels_group>
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_programmes_none.m3u" name="Web Programmes (No lang)"></channels_group>
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webcam_none.m3u" name="Web Cam (No lang)"></channels_group>
+	<language id="none" _lang="No lang Web TV and Radio">
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webtv_none.m3u" _name="Web TV (No lang)"></channels_group>
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_none.m3u" _name="Web Radio (No lang)"></channels_group>
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_programmes_none.m3u" _name="Web Programmes (No lang)"></channels_group>
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webcam_none.m3u" _name="Web Cam (No lang)"></channels_group>
 	</language>
-	<language id="webcam" lang="WebCam">
-		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webcam_all.m3u" name="WebCam"></channels_group>
+	<language id="webcam" _lang="WebCam">
+		<channels_group _name="WebCam" uri="http://database.freetuxtv.net/playlists/playlist_webcam_all.m3u" />
 	</language>
 </channels_groups>
